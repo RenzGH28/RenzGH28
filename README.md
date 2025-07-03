@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/RenzGH28"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hi!+I'm+RenzGH28;A+Web+Developer;A+Bot+Developer;I+Love+JavaScript+❤️"></a>
+  <a href="https://github.com/RenzGH28"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hi!+I'm+RenzGH28;A+Web+Developer;A+Bot+Developer;I+Modification+❤️"></a>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 
 ## 📊 GitHub Status  
   <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RenzGH8&include_orgs=true&show_icons=true&theme=radical&locale=en"
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RenzGH28&include_orgs=true&show_icons=true&theme=radical&locale=en"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzGH28&layout=compact&theme=radical" width="450"/>
   <br>
   <br>
